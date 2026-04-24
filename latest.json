@@ -1,19 +1,19 @@
 {
+  "version": "1.0.3",
   "platforms": {
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQ3d0VDZHYmZiVEFPanRySmZETEVBZ2xjOXU3dzlwVzdWZUd0aklNTktVR1RLL1krd2p2dEs0bldYbTRzejRKaVFZbjYvRTJXdGljVEtKcHNxTmJ3MlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQxMjkyCWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKSUlVUEVubm82b2tWNjJGSHl3VTYxdWJZNmUzM2VyR1EyWmJtME51MGdGVXlCWWNGZld2NDdqYVZzZTk2ckhFS0NROTZIR3lHZEljT2E3S0poMldTQXc9PQo=",
-      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64_en-US.msi.zip"
-    },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQzU4K3RpZWpmVHZOMFhnM1pKd0REcWkwczk2Ukg2VFNRbDkreWVzcFJnSDRJOHQ4M01GUU9GcnlFMzgwNEZYeExjcUFoZ3lNK3JJZUZoVWVGZnhyc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQxMjkyCWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCmN4OXRwQU1qZmVvbU9aSGJqMk5kY2dnTFF2TWxQMFNVbDRSaTAzN3NKTVA4clp3QjdBcjhkUmhsem40dVE2Tk9wTWhDRkt4bmpyTFJ1TVE5QTZSVkR3PT0K",
-      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64-setup.nsis.zip"
+      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQ3duRFl4Z2hxdnFLUi8xMWhMdlQ5alpPQVVWalA0a29rWVNFd1NNSTNXQXZnWmVRQVJ3Ny9URFhLNEhrQS9yWVRFQ0NYQnJ6VnVKKy9JQkhkQmdtbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQ4NTY1CWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCm16SEZuclp3dS9RTFR6Q2lNZ21HR2huaDJtczBLVVJvc0FYVVdnZC83TE9xNXExcjkzSkJnUUhNTUF4cDJaQ1pOQmR4R0pIMlRWRTNJT1B1emJnUkRBPT0K"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQzU4K3RpZWpmVHZOMFhnM1pKd0REcWkwczk2Ukg2VFNRbDkreWVzcFJnSDRJOHQ4M01GUU9GcnlFMzgwNEZYeExjcUFoZ3lNK3JJZUZoVWVGZnhyc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQxMjkyCWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCmN4OXRwQU1qZmVvbU9aSGJqMk5kY2dnTFF2TWxQMFNVbDRSaTAzN3NKTVA4clp3QjdBcjhkUmhsem40dVE2Tk9wTWhDRkt4bmpyTFJ1TVE5QTZSVkR3PT0K",
-      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64-setup.nsis.zip"
+      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQ3duRFl4Z2hxdnFLUi8xMWhMdlQ5alpPQVVWalA0a29rWVNFd1NNSTNXQXZnWmVRQVJ3Ny9URFhLNEhrQS9yWVRFQ0NYQnJ6VnVKKy9JQkhkQmdtbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQ4NTY1CWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0LXNldHVwLm5zaXMuemlwCm16SEZuclp3dS9RTFR6Q2lNZ21HR2huaDJtczBLVVJvc0FYVVdnZC83TE9xNXExcjkzSkJnUUhNTUF4cDJaQ1pOQmR4R0pIMlRWRTNJT1B1emJnUkRBPT0K"
+    },
+    "windows-x86_64-msi": {
+      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.0.3/RentFlow_1.0.3_x64_en-US.msi.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQ3ljMzJaOTVaemVRbm5zS3VEU2RVMGtVRmFLWENBd082MWVkRjEzaUpWWTlIWFkzeG9jVS9nd1RhelVKNndyb2R4TU1GVEtRbm9wMWRIMGp3RCsyK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQ4NTY1CWZpbGU6UmVudEZsb3dfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKM3QwdS9NelZUejdJTjdObndPSjE4dUVZMUFpWkFwaU1LRlZZWGxTRUFsOWJESTcvTk5BWi9meFZkOUJYallBek9JbjJUcklMRUk2eW9uNjFKakplQUE9PQo="
     }
   },
-  "pub_date": "2026-04-24T14:35:00.123Z",
-  "version": "1.0.3",
+  "pub_date": "2026-04-24T16:36:12.799Z",
   "notes": "## Co je nového v této verzi\nViz changelog v aplikaci."
 }
