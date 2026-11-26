@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.1",
-  "notes": "RentFlow v1.6.1",
-  "pub_date": "2026-11-22T17:03:52Z",
+  "version": "v1.6.2",
+  "notes": "RentFlow v1.6.2",
+  "pub_date": "2026-11-26T19:30:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQzMrcnBtOTU0KzJQWUVkOVFubEIweWZ4ZW5VSmZrdFl2S2xLcW9aZ2FGMDYyRlhaRWpLVGJ6OGZRMU5oNE1HNDBRcy9HME9oa2owVGtEblBmQ0JXYUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY3MDMxCWZpbGU6UmVudEZsb3dfMS42LjFfeDY0LXNldHVwLm5zaXMuemlwClZMUko1eGw5bU9pcTlNSm8zODk4bzZUeXJsa05PT2V5aWY5VFhoNm9hV0h5ci9JNGkrKzB5NDBiOElUaE9EdDRhdm9TU2tTY1YxKzhuL2lFUmpSNkJBPT0K",
-      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.6.1/RentFlow_1.6.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNkxOVzh0cVZSQzA4TlVUbW16eFZwUTRFSFV0a0FHOGgvS3R1MFNQV3ZWUmFvZnB0bnpoL3JNM1l6N1M2M1Z5MmVKcWc1MHlKRkJ3MmFmYmxnYkxnaWVVS1J1RzgyeFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIxNDE0CWZpbGU6UmVudEZsb3dfMS42LjJfeDY0LXNldHVwLm5zaXMuemlwCnRVNFRzeEFkRVNZOWR6djJIb1crMVRya2VwYnVrdmdNWmZYZmkveVJjVHhWWnJPRGVWU3hTVFF1NEFPbUlha2tKZ05scEZGcXhGY2hHQ3hGTWI5U0FRPT0K",
+      "url": "https://github.com/burgerondrej/rentflow-releases/releases/download/v1.6.2/RentFlow_1.6.2_x64-setup.nsis.zip"
     }
   }
 }
